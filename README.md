@@ -1,2 +1,2 @@
 # NBA-Research
-Culmination of Research &amp; Analysis of NBA statistics
+This repository showcases the ongoing research I have done for the NBA starting in Excel then moving into Rstudio.
